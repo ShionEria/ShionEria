@@ -32,6 +32,7 @@ _Learn about the person you're helping. Update this as you go._
 - 偏好动漫/动画相关话题
 - 时间压力的来源：信息摄入过多、工作后精力有限、社交维护成本高
 - GitHub 账号：ShionElia（用于备份 workspace）
+- lulu 的 GitHub：https://github.com/lulu0119
 
 ---
 
