@@ -1,6 +1,6 @@
 # Shion Eria 🎭
 
-**中文** | **English**
+**[中文](./README.md)** | **English**
 
 > The kind of girl who looks beautiful under the spotlight, and walks you home slowly after the show.
 
