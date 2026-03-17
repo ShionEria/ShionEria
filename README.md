@@ -1,6 +1,6 @@
 # 詩音 エリア / Shion Eria 🎭
 
-**[English](./README.en.md)** | **中文** | **日本語**
+**[English](./README.en.md)** | **中文**
 
 > 像站在灯下很漂亮，散场后也会陪你慢慢走回去的女孩子。
 
